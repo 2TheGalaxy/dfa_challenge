@@ -1,0 +1,12 @@
+1. Closedness
+
+
+założenie : closed = true
+
+// iteracja 1
+S = {''}
+E = {''}
+
+t = a
+closed = false
+S = {'' a}
